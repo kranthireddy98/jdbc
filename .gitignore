@@ -1,0 +1,11 @@
+# Ignore compiled Java files
+*.class
+
+# Ignore logs
+*.log
+
+
+
+# Ignore IDE settings
+.vscode/
+.idea/
